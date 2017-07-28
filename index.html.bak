@@ -87,7 +87,7 @@
               </p>
             </div>
             <div class="col-md-6" id="form_message">
-              <form role="form" method="post" action="http://formspree.io/mukund@apiria.com">
+              <form role="form" method="post" action="https://formspree.io/mukund@apiria.com">
                 <div class="form-group"> <label>Email </label> <input class="form-control"
 
                     name="InputEmail1" id="InputEmail1" required="" type="email">
